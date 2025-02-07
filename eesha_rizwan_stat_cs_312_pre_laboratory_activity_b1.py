@@ -21,15 +21,7 @@ Original file is located at
 
 # Laboratory Lecture B-1 #
 
-Our second laboratory activity covers the material in Chapter 2. This includes focusing on the data especially getting the data in the right form and measuring similarity. Again, remember that this is what I talk about during class. The actual laboratory activity that you do is on the course website.
 
-&nbsp;
-&nbsp;
-&nbsp;
-
-## Preamble ##
-
-In this section, you import all of the necessary packages for the notebook.
 """
 
 import math
@@ -166,7 +158,6 @@ angle_difference(importantMeasures.iloc[648],90)
 
 # The End #
 
-This is the end of the lecture part of the lab. Please visit the website to see what the lab assignment is.
 
 ### Reference ###
 
